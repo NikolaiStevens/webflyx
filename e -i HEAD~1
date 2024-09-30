@@ -1,0 +1,60 @@
+[33mcommit aaa8adb67bb613add92417f9d7f6a83605480a75[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Mon Sep 30 06:11:41 2024 +0200
+
+    I: Add 'Fear is the mind-killer.' to dune quotes
+
+[33mcommit c49f94f1377ae662db6357d22e7926573566349b[m
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Mon Sep 30 06:10:33 2024 +0200
+
+    H: Add 'The spice must flow.' to dune quotes
+
+[33mcommit ff2e542422e60c0a9bc6fa404790ed83710f34ed[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Nikolai Stevens <76467968+NikolaiStevens@users.noreply.github.com>
+Date:   Mon Sep 30 09:10:21 2024 +0200
+
+    J: Update classics.csv
+
+[33mcommit 45ddc3406d2f89dd49258543ea28bd8c915504ba[m
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Sun Sep 29 08:40:11 2024 +0200
+
+    G: added title: The Curious Case of Benjamin Button
+
+[33mcommit fe4f0c83be0ed2f049bc48867f673d4ec1b0094a[m
+Merge: 8c5701d 7b76a3c
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Sun Sep 29 08:09:05 2024 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 8c5701d830d9671d0847bea938a5d22a4da2e169[m
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Sun Sep 29 08:04:24 2024 +0200
+
+    E: added contents.md
+
+[33mcommit 7b76a3c404f94db624528771be2c124fe875fb92[m
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Sun Sep 29 07:51:38 2024 +0200
+
+    D: Add classics.csv with a list of classic movies
+
+[33mcommit a7d21a7bebd0dabda22562408f203d510f04ddc4[m
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Sat Sep 28 19:51:48 2024 +0200
+
+    C: add quotes
+
+[33mcommit ad7397bdd41bd3667e45ef028d8a38d8d76d3074[m
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Sat Sep 28 18:53:42 2024 +0200
+
+    B: add titles
+
+[33mcommit a568dd847427789d2dd69e2a8a97a6da7ca09c48[m
+Author: Nikolai Stevens <nikolai.hmi@gmail.com>
+Date:   Sat Sep 28 18:09:34 2024 +0200
+
+    A: add contents.md
